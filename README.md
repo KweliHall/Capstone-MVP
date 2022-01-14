@@ -15,4 +15,8 @@ Features
 Database
     -Stores user info 
     -Stores chat info
-    -Stores user id
+    -Stores user id 
+
+Figma: https://www.figma.com/file/0vXkzBr72IKXM8UQxENHvZ/Untitled?node-id=2%3A2
+
+Dbdesigner: https://app.dbdesigner.net/designer/schema/489831
