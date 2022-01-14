@@ -1,4 +1,4 @@
-for my project i am going to make a discord like app.
+For my project i am going to make a discord like app. It will allow you to sign in and interact with chat rooms.
 
 Pages
     - Sign in page
